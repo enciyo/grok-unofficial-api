@@ -6,6 +6,7 @@ setup(
     description='Unofficial Grok API',
     author='Mustafa K',
     author_email='ben@mustafakilic.dev',
+    url= "https://github.com/enciyo/grok-unofficial-api",
     packages=find_packages(),
     install_requires=[
         'requests',

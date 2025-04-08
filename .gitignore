@@ -2,3 +2,6 @@
 downloaded_files
 cookies
 .env
+build
+dist
+grok_unoffical_api.egg-info

@@ -9,12 +9,13 @@ First, clone the repository:
 ```bash
 git clone <repository_url>
 cd grok_unoffical_api
+pip install .
 ```
 
 Then, install the package:
 
 ```bash
-pip install .
+pip install grok-unoffical-api==0.1.0
 ```
 
 ## Usage
