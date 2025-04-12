@@ -1,8 +1,8 @@
 import requests
-from _headers_manager import HeadersManager
-from grok_payload import GrokPayload
-from grok_cookies import GrokCookies
-from grok_response import parse_multi_json
+from grok_unoffical_api._headers_manager import HeadersManager
+from grok_unoffical_api.grok_payload import GrokPayload
+from grok_unoffical_api.grok_cookies import GrokCookies
+from grok_unoffical_api.grok_response import parse_multi_json
 
 
 class GrokClient:

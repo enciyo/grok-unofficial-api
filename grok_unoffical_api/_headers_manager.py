@@ -1,8 +1,5 @@
-import random
 
 class HeadersManager:
-
-
     def get_headers(self):
         return {
             "accept": "*/*",

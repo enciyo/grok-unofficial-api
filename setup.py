@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='grok_unoffical_api',
-    version='0.1.0',
+    version='0.1.1',
     description='Unofficial Grok API',
     author='Mustafa K',
     author_email='ben@mustafakilic.dev',
